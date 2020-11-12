@@ -1,0 +1,12 @@
+{
+  "name": "TaskOne",
+  "displayName": "TaskOne",
+  "expo": {
+    "name": "TaskOne",
+    "slug": "TaskOne",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
